@@ -9,7 +9,7 @@ public class TestStack{
     public TestStack(int size){
         this.size = size;
         this.array = new int[size];
-        this.top = -1; // its minus one because th array -1+ 1 Become 0  when att element we want to start to zeo
+        this.top = -1; // it's minus one because th array -1+ 1 Become 0  when att element we want to start to zeo
     }
 
     // Impliment the push method (adding an element)
